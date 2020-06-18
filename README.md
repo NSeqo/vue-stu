@@ -1,8 +1,5 @@
-# vue-stu
-
-> Vue学习以及实践总结
+# vue 项目最佳实践
 
 
-# 分支管理
+### 项目初始化cli3.x (默认)
 
-1. vue项目的最佳实践  f_bp (best practice)
