@@ -31,6 +31,7 @@ module.exports = {
 
 
     //接受对象，或者一个函数返回对象，该对象会被webpack-merge到最终的配置中
+    //这里配置的属性必须是webpack原生支持的属性
     configureWebpack: {
         name: 'Vue最佳实践', //配置页面title标签内容，可在html模板中使用插值注入
     },
